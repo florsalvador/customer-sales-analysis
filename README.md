@@ -1,7 +1,7 @@
 # Customer Sales Analysis
 
 ## Overview
-This project is a **Python and Pandas analysis of sales and customer data**.  
+This project is a Python and Pandas analysis of sales and customer data.  
 It reads sales from a CSV file and customer information from an Excel file, merges the data, performs various analyses, and exports results to CSV and Excel.
 
 ## Features
